@@ -4,7 +4,7 @@
     border-radius: 15px;
     overflow: hidden;
     /* background-color: transparent; */
-    background: linear-gradient(to bottom,  white, #ffffffe0, transparent);
+    background: linear-gradient(to bottom,  white, rgba(255, 255, 255, 0.973), #ffffffc9, transparent);
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     
     display: grid;
